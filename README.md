@@ -24,10 +24,12 @@
 </p>
 
 <h3 align="right">React apps:</h3>
+<div align="right">
  - 📞📘 <a href="https://vadympopov.github.io/goit-react-hw-08-phonebook/" target="_blank">Phonebook (redux)</a><br>
  - 🎬 <a href="https://vadympopov.github.io/goit-react-hw-05-movies/" target="_blank">Movie finder</a><br>
  - 📸 <a href="https://vadympopov.github.io/goit-react-hw-04-images/" target="_blank">Image finder</a><br>
  - 🐥 <a href="https://vadympopov.github.io/tweets-app/" target="_blank">Tweets App</a><br>
+</div>
 
 <h3 align="right">JS apps:</h3>
  - 🎨 <a href="https://vadympopov.github.io/pixabay-gallery/" target="_blank">Pixabay Gallery</a><br>
