@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **boycristal10@gmail.com**
 
-- ⚡ 🏀🏀🏀 Fun fact **I'm a basketball referee **  
+- ⚡  Fun fact **I'm a basketball referee** 🏀🏀🏀
 
 
 <h3 align="center">💻 Stack:</h3>
