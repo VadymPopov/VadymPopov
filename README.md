@@ -39,6 +39,8 @@
 <h3 align="left">Team projects:</h3>
  🍦 <a href="https://olexandryakowenko.github.io/team_project_9/" target="_blank">IceCream</a><br>
  🎥 <a href="https://deadlypants11.github.io/project/" target="_blank">Filmoteka</a><br>
+ 📝⚡ <a href=" https://github.com/ukrwebprom/TaskPro/" target="_blank">TaskPRO</a><br>
+
  
 <br>
 <p align='center'>To be continued...</p>
