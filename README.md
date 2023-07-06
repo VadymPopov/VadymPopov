@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋🌍, I'm Vadym 😊</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 <div align="right">
- <p>🌱 I’m currently learning <b>Node.js & TypeScript</b> </p>
+ <p>🌱 I’m currently learning <b>TypeScript</b> </p>
  <p>📫 How to reach me <b>boycristal10@gmail.com</b> </p>
  <p>⚡  Fun fact <b>I'm a basketball referee</b> 🏀🏀🏀</p>
 </div>
