@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋🌍, I'm Vadym 😊</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 <div align="right">
- <p>🌱 I’m currently learning <b>TypeScript</b> </p>
+ <p>🌱 I’m currently mastering <b>TypeScript</b> </p>
  <p>📫 How to reach me <b>boycristal10@gmail.com</b> </p>
  <p>⚡  Fun fact <b>I'm a basketball referee</b> 🏀🏀🏀</p>
 </div>
@@ -20,6 +20,7 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  alt="tailwindcss" width="40" height="40" /> </a>      
 </p>
 
 <h3 align="left">Commercial projects:</h3>
