@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Ukraine</h3>
 <div align="right">
  <p>🌱 I’m currently mastering <b>TypeScript</b> </p>
- <p>📫 How to reach me <b>boycristal10@gmail.com</b> </p>
+ <p>📫 How to reach me <b>vadympopov.dev@gmail.com</b> </p>
  <p>⚡  Fun fact <b>I'm a basketball referee</b> 🏀🏀🏀</p>
 </div>
 <br>
