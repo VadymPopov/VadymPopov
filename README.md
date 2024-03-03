@@ -35,6 +35,8 @@
  
 
 <h3 align="left">React apps:</h3>
+
+ 🍸<a href="https://github.com/VadymPopov/party-maker/" target="_blank">PartyMaker</a><br>
  📘 <a href="https://vadympopov.github.io/goit-react-hw-08-phonebook/" target="_blank">Phonebook (redux)</a><br>
  🎬 <a href="https://vadympopov.github.io/goit-react-hw-05-movies/" target="_blank">Movie finder</a><br>
  📸 <a href="https://vadympopov.github.io/goit-react-hw-04-images/" target="_blank">Image finder</a><br>
