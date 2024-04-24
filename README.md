@@ -23,6 +23,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  alt="tailwindcss" width="40" height="40" /></a>      
 </p>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  alt="nextjs" width="40" height="40" /></a>      
+</p>
+
 
 <h3 align="left">Commercial projects:</h3>
  🐱‍👤✍ <a href="https://alinaivenko.com/" target="_blank">Tattoo Artist webpage</a><br>
@@ -31,7 +34,11 @@
  📝⚡ <a href="https://github.com/ukrwebprom/TaskPro/" target="_blank">TaskPRO</a><br>
  🎥 <a href="https://deadlypants11.github.io/project/" target="_blank">Filmoteka</a><br>
  🍦 <a href="https://olexandryakowenko.github.io/team_project_9/" target="_blank">IceCream</a><br>
- 
+
+
+ <h3 align="left">NEXT apps:</h3>
+🔗<a href="https://github.com/VadymPopov/next-portfolio" target="_blank">Portfolio</a><br>
+🔮<a href="https://github.com/VadymPopov/next-easygoing" target="_blank">EasyGoing</a><br>
  
 
 <h3 align="left">React apps:</h3>
