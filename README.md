@@ -31,7 +31,8 @@
  🐱‍👤✍ <a href="https://alinaivenko.com/" target="_blank">Tattoo Artist webpage</a><br>
 
  <h3 align="left">Team projects:</h3>
- 📝⚡ <a href="https://github.com/ukrwebprom/TaskPro/" target="_blank">TaskPRO</a><br>
+ 🕸<a href="https://github.com/andron13/graphiql-app" target="_blank">GraphiQL App</a><br>
+ 📝⚡<a href="https://github.com/ukrwebprom/TaskPro/" target="_blank">TaskPRO</a><br>
  🎥 <a href="https://deadlypants11.github.io/project/" target="_blank">Filmoteka</a><br>
  🍦 <a href="https://olexandryakowenko.github.io/team_project_9/" target="_blank">IceCream</a><br>
 
@@ -42,7 +43,6 @@
  
 
 <h3 align="left">React apps:</h3>
-
  🍸<a href="https://github.com/VadymPopov/party-maker/" target="_blank">PartyMaker</a><br>
  📘 <a href="https://vadympopov.github.io/goit-react-hw-08-phonebook/" target="_blank">Phonebook (redux)</a><br>
  🎬 <a href="https://vadympopov.github.io/goit-react-hw-05-movies/" target="_blank">Movie finder</a><br>
