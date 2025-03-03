@@ -1,9 +1,9 @@
 <h1 align="center">Hello World 👋🌍, I'm Vadym 😊</h1>
-<h3 align="center">A frontend developer from Ukraine</h3>
+<h3 align="center">A fullstack developer from Ukraine</h3>
 <div align="right">
  <p>🌱 I’m currently mastering <b>Next.js</b> </p>
  <p>📫 How to reach me <b>vadympopov.dev@gmail.com</b> </p>
- <p>⚡  Fun fact <b>I'm a basketball referee</b> 🏀🏀🏀</p>
+ <p>⚡ Fun fact <b>I'm a basketball referee</b>🏀🏀🏀 and <b>hablo español</b>🐂</p>
 </div>
 <br>
 
@@ -28,41 +28,38 @@
 </p>
 
 <h3 align="left">Commercial projects:</h3>
- 🐱‍👤✍ <a href="https://alinaivenko.com/" target="_blank">Tattoo Artist webpage</a><br>
-
+ 🐱‍👤✍ <a href="https://alinaivenko.com/" target="_blank">Tattoo Artist website</a><br>
+ 💈💇🏻‍♂️ <a href="https://flexspace.netlify.app/" target="_blank">FlexSpace (Landing page)</a><br>
+ 
  <h3 align="left">Team projects:</h3>
  🕸<a href="https://github.com/andron13/graphiql-app" target="_blank">GraphiQL App</a><br>
  📝⚡<a href="https://github.com/ukrwebprom/TaskPro/" target="_blank">TaskPRO</a><br>
  🎥 <a href="https://deadlypants11.github.io/project/" target="_blank">Filmoteka</a><br>
  🍦 <a href="https://olexandryakowenko.github.io/team_project_9/" target="_blank">IceCream</a><br>
 
-
- <h3 align="left">NEXT apps:</h3>
+ <h3 align="left">NEXT.js apps:</h3>
 🔗<a href="https://github.com/VadymPopov/next-portfolio" target="_blank">Portfolio</a><br>
 🔮<a href="https://github.com/VadymPopov/next-easygoing" target="_blank">EasyGoing</a><br>
- 
 
-<h3 align="left">React apps:</h3>
+<h3 align="left">React.js apps:</h3>
  🍸<a href="https://github.com/VadymPopov/party-maker/" target="_blank">PartyMaker</a><br>
- 📘 <a href="https://vadympopov.github.io/goit-react-hw-08-phonebook/" target="_blank">Phonebook (redux)</a><br>
+ ☂<a href="https://vadympopov.github.io/hex-shades/" target="_blank">Hex Shades</a><br>
+ ⏲ <a href="https://vadympopov.github.io/pomodoro-timer/" target="_blank">Pomodoro 25+5</a><br>
+ 🥁 <a href="https://vadympopov.github.io/drum-machine/" target="_blank">Drum Machine</a><br>
  🎬 <a href="https://vadympopov.github.io/goit-react-hw-05-movies/" target="_blank">Movie finder</a><br>
  📸 <a href="https://vadympopov.github.io/goit-react-hw-04-images/" target="_blank">Image finder</a><br>
  🐥 <a href="https://vadympopov.github.io/tweets-app/" target="_blank">Tweets App</a><br>
- ☂  <a href="https://vadympopov.github.io/hex-shades/" target="_blank">Hex Shades</a><br>
- ⏲ <a href="https://vadympopov.github.io/pomodoro-timer/" target="_blank">Pomodoro 25+5</a><br>
- 🥁 <a href="https://vadympopov.github.io/drum-machine/" target="_blank">Drum Machine</a><br>
-
+ 📘 <a href="https://vadympopov.github.io/goit-react-hw-08-phonebook/" target="_blank">Phonebook (Redux)</a><br>
+ 🍋🍴  <a href="https://vadympopov.github.io/little-lemon/" target="_blank">Little Lemon Restaurant</a><br>
 
 <h3 align="left">JS apps:</h3>
  🎨 <a href="https://vadympopov.github.io/pixabay-gallery/" target="_blank">Pixabay Gallery</a><br>
  🚩 <a href="https://vadympopov.github.io/goit-js-hw-10/" target="_blank">Countries</a><br> 
  🧮 <a href="https://vadympopov.github.io/js-calculator/" target="_blank">Calculator</a><br> 
- 
 
 <h3 align="left">HTML, CSS and JS projects:</h3>
  🖥️ <a href="https://vadympopov.github.io/goit-markup-hw-08/" target="_blank">WebStudio</a><br>
  🧔 <a href="https://vadympopov.github.io/barbershop/" target="_blank">Barbershop</a><br>
-
  
 <br>
 <p align='center'>To be continued...</p>
