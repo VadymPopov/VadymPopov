@@ -29,6 +29,8 @@
 
 <h3 align="left">Commercial projects:</h3>
  🐱‍👤✍ <a href="https://alinaivenko.com/" target="_blank">Tattoo Artist website</a><br>
+ 🧿🌸 <a href="https://www.ivannakoniukh.com/en" target="_blank">Ivanna Koniukh</a><br>
+ 🍰🧁 <a href="https://tubiscakes.com/" target="_blank">Tubi's Cakes</a><br>
  💈💇🏻‍♂️ <a href="https://flexspace.netlify.app/" target="_blank">FlexSpace (Landing page)</a><br>
  
  <h3 align="left">Team projects:</h3>
